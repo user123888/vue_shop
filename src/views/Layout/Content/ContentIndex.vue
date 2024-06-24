@@ -12,7 +12,7 @@
         欢迎！
       </span>
       <el-dropdown-menu slot="dropdown" >
-        <el-dropdown-item  command="a">退出登录``</el-dropdown-item>
+        <el-dropdown-item  command="a">退出 登录</el-dropdown-item>
       </el-dropdown-menu>
     </el-dropdown>
           <a href="#">
